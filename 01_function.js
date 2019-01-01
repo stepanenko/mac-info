@@ -1,5 +1,5 @@
 
-function userCreator(name, score) {
+function UserCreator(name, score) {
   const newUser = {};
 
   newUser.name = name;
@@ -11,7 +11,7 @@ function userCreator(name, score) {
   return newUser;
 }
 
-const john = userCreator('John', 5);
+const john = UserCreator('John', 5);
 john.increment();
 
 console.log(john);
