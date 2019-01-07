@@ -9,7 +9,6 @@ userCreator.prototype.increment = function() {
 }
 
 const terry = new userCreator('Terry', 2);
-
 terry.increment();
 // console.log(terry);
 
@@ -31,8 +30,6 @@ paidUserCreator.prototype.increaseBalance = function(addBalance) {
 // }
 
 const bill = new paidUserCreator('Bill', 5, 60);
-
 bill.increment();
 bill.increaseBalance(30);
-
 console.log(bill);
