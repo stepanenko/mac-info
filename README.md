@@ -1,4 +1,5 @@
-# Will Sentance: [OOP Hard Parts](https://coursehunters.net/course/javascript-zhestkie-chasti-obektno-orientirovannogo-programmirovaniya)
+# Will Sentance:
+[JavaScript: The Hard Parts on Object-Oriented Programming](https://coursehunters.net/course/javascript-zhestkie-chasti-obektno-orientirovannogo-programmirovaniya)
 
 
 Урок 23. Create object with Factory Function 00:13:30
