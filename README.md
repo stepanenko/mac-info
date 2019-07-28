@@ -1,5 +1,8 @@
 # Will Sentance: [JavaScript: The Hard Parts on OOP](https://coursehunters.net/course/javascript-zhestkie-chasti-obektno-orientirovannogo-programmirovaniya)
 
+#### Release: 03.10.2018
+
+#### Duration: 04:30:28
 
 Урок 23. Create object with Factory Function 00:13:30
 
