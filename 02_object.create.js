@@ -1,3 +1,4 @@
+// Video 7 Avoid Duplication with Prototype:
 
 function UserCreator(name, score) {
   const newUser = Object.create(userMethodsStore);

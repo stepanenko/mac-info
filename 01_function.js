@@ -1,3 +1,4 @@
+// Video 6 Creating Objects with Functions:
 
 function UserCreator(name, score) {
   const newUser = {};
