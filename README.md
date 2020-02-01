@@ -4,7 +4,7 @@
 
 #### Duration: 04:30:28
 
-Урок 23. Create object with Factory Function 00:13:30
+**Current - >** Урок 23. Create object with Factory Function 00:13:30
 
 Урок 24. Create a Sub-Factory Function 00:05:07
 
