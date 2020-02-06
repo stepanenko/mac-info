@@ -1,4 +1,6 @@
-# Will Sentance: [JavaScript: The Hard Parts on OOP](https://coursehunters.net/course/javascript-zhestkie-chasti-obektno-orientirovannogo-programmirovaniya)
+## [JavaScript: The Hard Parts on OOP](https://coursehunters.net/course/javascript-zhestkie-chasti-obektno-orientirovannogo-programmirovaniya)
+
+### by Will Sentance
 
 #### Updated: 05.11.2018
 
