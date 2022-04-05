@@ -1,5 +1,7 @@
 # MacOS Notes
 
+### Is Apple Silicon ready? -> https://isapplesiliconready.com/
+
 ## Keyboard Shortcuts:
 
 **Command + Shift + .** (period) - to make the hidden files appear.
