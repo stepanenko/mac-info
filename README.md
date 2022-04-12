@@ -27,7 +27,7 @@ Move smth to `/usr/local/bin`, e.g. terragrunt: `sudo mv ~/Downloads/terragrunt 
 
 ## nano
 
-`nano [filename]`
+`nano [filename]` - open file
 
 My Notes - https://github.com/stepanenko/mac-info/blob/master/NANO.md
 
@@ -35,7 +35,7 @@ The editor's cheatsheet: https://www.nano-editor.org/dist/latest/cheatsheet.html
 
 ## Vim
 
-`vim [filename]`
+`vim [filename]` - open file
 
 My Notes - https://github.com/stepanenko/mac-info/blob/master/VIM.md
 
