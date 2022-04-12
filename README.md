@@ -29,10 +29,14 @@ Move smth to `/usr/local/bin`, e.g. terragrunt: `sudo mv ~/Downloads/terragrunt 
 
 `nano [filename]`
 
+My Notes - https://github.com/stepanenko/mac-info/blob/master/NANO.md
+
 The editor's cheatsheet: https://www.nano-editor.org/dist/latest/cheatsheet.html
 
-## VIM
+## Vim
 
 `vim [filename]`
+
+My Notes - https://github.com/stepanenko/mac-info/blob/master/VIM.md
 
 The editor's cheatsheet: https://vim.rtorr.com/
