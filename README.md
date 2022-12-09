@@ -40,3 +40,9 @@ The editor's cheatsheet: https://www.nano-editor.org/dist/latest/cheatsheet.html
 My Notes - https://github.com/stepanenko/mac-info/blob/master/VIM.md
 
 The editor's cheatsheet: https://vim.rtorr.com/
+
+## Troubleshooting:
+
+1. After upgrading macOS and running `git` commands, the following error appears:
+
+`xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun`
