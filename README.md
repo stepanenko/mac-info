@@ -46,3 +46,11 @@ The editor's cheatsheet: https://vim.rtorr.com/
 1. After upgrading macOS and running `git` commands, the following error appears:
 
 `xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun`
+
+Solution: Open Terminal, and run the following: `xcode-select --install`
+
+This will pop a dialogue box, Select "Install", and it will download and install the Command Line Tools package and fix the problem.
+
+You do not need Xcode, you can install only the Command Line Tools here, it is about 130Mb.
+
+If the above alone doesn't do it, then also run: `sudo xcode-select --reset`
