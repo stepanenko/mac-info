@@ -17,7 +17,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 `:q` - quit (fails if there are unsaved changes)
 
-`:q!` or `ZQ` - quit without saving
+`:q!` or `ZQ` - force quit, discarding any changes
 
 `h` - move cursor left, `j` - down, `k` - up, `l` - right
 
