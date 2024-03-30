@@ -9,11 +9,15 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 ## Basic commands
 
+`i` - enter "insert" (editing) mode
+
+`esc` - return to "command" mode
+
 `:wq` or `:x` or `ZZ` - write (save) and quit
 
 `:q` - quit (fails if there are unsaved changes)
 
-`:q!` or `ZQ` - quit and throw away unsaved changes
+`:q!` or `ZQ` - quit without saving
 
 `h` - move cursor left, `j` - down, `k` - up, `l` - right
 
