@@ -4,7 +4,7 @@ To check if soft is Apple M1 ready go to https://isapplesiliconready.com/
 
 ## Keyboard Shortcuts:
 
-**Command + Shift + .** (period) - to make the hidden files appear.
+**Command + Shift + .** (period) - to make the hidden files appear. (In Terminal, view hidden files with: `ls -la`)
 
 **Command + Shift + 4** - to make selective screenshot.
 
